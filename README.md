@@ -27,3 +27,16 @@ The framework targets **ISO 26262 ASIL-D**, **DO-178C Level A**, and **IEC 62304
 | Machine verification (CBMC) | 2 harnesses | ✅ `VERIFICATION SUCCESSFUL` |
 
 ## Repository Structure
+
+## License
+
+**Dual Licensing Model:**
+
+- **Academic and Non-Commercial Use:** Free, under the Business Source License 1.1.
+  See [LICENSE](./LICENSE) for details.
+- **Commercial Use:** Requires a separate commercial license.
+  Contact: `ccilbctr.research@gmail.com`
+
+**Specification:** Published under CC BY-NC-ND 4.0 (see Zenodo DOI).
+
+© 2026 FARSHAD OMEGA. All Rights Reserved.
