@@ -3,7 +3,7 @@
 **Formal verification of safety kernels for Autonomous Emergency Braking (AEB)**
 
 [![DOI](https://img.shields.io/badge/DOI-10.5281%2Fzenodo.22797038-blue)](https://doi.org/10.5281/zenodo.22797038)
-[![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
+[![License: BSL 1.1](https://img.shields.io/badge/License-BSL%201.1-orange.svg)](./LICENSE)
 [![Lean 4](https://img.shields.io/badge/Lean-4.35.0--rc2-purple)](https://lean-lang.org/)
 [![CBMC](https://img.shields.io/badge/CBMC-5.95.1-green)](https://www.cprover.org/cbmc/)
 
